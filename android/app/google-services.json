@@ -29,6 +29,13 @@
             {
               "client_id": "926467971152-pjiqnjag4phbi4v93nj4j1u07ei4gq8v.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "926467971152-277h3e2h73vp38uji7qhbp82c1h4u5or.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dawidszosziaszwili.cantwait28"
+              }
             }
           ]
         }
